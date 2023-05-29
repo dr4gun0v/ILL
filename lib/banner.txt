@@ -1,0 +1,4 @@
+
+ILL - I Love Linux v1.0
+Linux Privesc Exploit Suggester
+by oppsec
